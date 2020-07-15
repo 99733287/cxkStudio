@@ -1,4 +1,5 @@
 # 蔡徐坤打篮球
+powerd by [sibnerian/sibgif](https://github.com/sibnerian/sibgif)
 
 ## 修改背景版
 ![](preview/1.png)
